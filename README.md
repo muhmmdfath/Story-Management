@@ -35,4 +35,4 @@ You may list what libraries you used in this project, example :
 * `services`
 
 ## <a name="apk-link"></a> Website URL :
-story-management-7yd0eqhsp-muhammad-fatih-ad-lis-projects.vercel.app
+[story-management-7yd0eqhsp-muhammad-fatih-ad-lis-projects.vercel.app](https://story-management-7yd0eqhsp-muhammad-fatih-ad-lis-projects.vercel.app/)

@@ -1,5 +1,38 @@
-## Next.js App Router Course - Starter
+# STORYKU
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## <a name="introduction"></a> Introduction :
+A task management application where users can add tasks based on the date of the task and can also add categories and tags related to each task. Users can delete and edit data according to their preferences.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Libraries](#libraries)
+- [Project Structure](#project-structures)
+- [APK Link](#apk-link)
+
+## <a name="features"></a> Features :
+You may list what feature you created, example :
+- Story List
+- Add Story
+- Story Detail
+- Edit Story
+
+
+## <a name="libraries"></a> Libraries :
+You may list what libraries you used in this project, example :
+- ExpressJS
+- ReactJS
+- etc
+
+## <a name="project-structures"></a> Project Structure :
+* `assets`
+* `components`
+* `utils`
+* `pages`
+* `services`
+
+## <a name="apk-link"></a> Website URL :
+story-management-7yd0eqhsp-muhammad-fatih-ad-lis-projects.vercel.app
